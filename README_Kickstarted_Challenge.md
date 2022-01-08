@@ -14,7 +14,7 @@ Fundraising data had goals and outcomes for various types of campaigns. Since Lo
 
 ### Analysis of Outcomes Based on Launch Date
 
-Analysis based on launch date showed that fundraisers in Theatre category are most successful in months of May and June. I further confirmed my theory by selecting May as a filter and Year as Rows in pivot table. I have provided a Line chart with markers ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png) to support my analysis. 
+Analysis based on launch date showed that fundraisers in Theatre category are most successful in months of May and June. I further confirmed my theory by selecting May as a filter and Year as Rows in pivot table. I have provided a Line chart with markers to support my analysis: ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)  
 
 ### Analysis of Outcomes Based on Goals
 
