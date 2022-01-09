@@ -10,7 +10,7 @@ Louise wants to compare her campaign with others based on launch date and goals.
 
 ## Analysis and Challenges
 
-Fundraising data had goals and outcomes for various types of campaigns. Since Louise was primarily interested in theatre, we tried to scope our data within theatre categories and play subcategories. The detailed analysis is provided in the topics that follow. 
+Fundraising data had goals and outcomes for various types of campaigns. Since Louise was primarily interested in theatre, we tried to scope our data within theatre categories and play subcategories. Complete analysis can be found here: [Fundraiser_Analysis](https://github.com/amangill09/working_with_excel/blob/8a49c3277ee9e495273145104728ef17005b62ed/Kickstarter_Challenge.xlsx). The detailed analysis is provided in the sub-topics that follow. 
 
 ### Analysis of Outcomes Based on Launch Date
 
