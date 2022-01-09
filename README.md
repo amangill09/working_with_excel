@@ -14,12 +14,12 @@ Fundraising data had goals and outcomes for various types of campaigns. Since Lo
 
 ### Analysis of Outcomes Based on Launch Date
 
-Analysis based on launch date showed that fundraisers in Theatre category are most successful in months of May and June. I further confirmed my theory by selecting May as a filter and Year as Rows in pivot table. I have provided a Line chart with markers to support my analysis: ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)  
+Analysis based on launch date showed that fundraisers in Theatre category are most successful in months of May and June. I further confirmed my theory by selecting May as a filter and Year as Rows in pivot table. I have provided a Line chart with markers to support my analysis: ![Theater_Outcomes_vs_Launch.png](/Resources/Theater_Outcomes_vs_Launch.png)  
 
 ### Analysis of Outcomes Based on Goals
 
 Another way to identify a criterion for success is based on Goal amount. In this analysis, I split the goal in increments of $5,000 and identified the success and fail percentages. Data showed that a smaller goal amount has more chances for success. There were a few exceptions but the quantity was not significant. Outcomes are presented in this chart
-![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
